@@ -28,7 +28,7 @@ Despite its numerous benefits, the task of ontologizing metadata can appear daun
 
 ## Steps towards ontologizing metadata
 
-Incorporating ontologies into metadata involves a series of meticulous steps. Drawing from our practices in the [PREMISE](https://ord-premise.github.io/) project, we outline below the essential steps of this process.
+Incorporating ontologies into metadata involves a series of meticulous steps. Drawing from our practices in the [PREMISE](https://ord-premise.org/) project, we outline below the essential steps of this process.
 
 ### 1. Which ontology concepts to include?
 
@@ -70,7 +70,7 @@ Manual creation of ontologized metadata can be daunting, time-consuming, and err
 
 ## Conclusion
 
-The guidelines described in this paper underscore the significance and practicality of embedding ontologies within metadata, drawing on the first-year insights of the PREMISE project and extensive discussions with field experts in battery technology and scanning probe microscopy. This document aims to empower researchers with the necessary insights and instruments for this critical task. With detailed steps and illustrations, it seeks to advocate for the widespread implementation of ontologically enriched metadata in scientific endeavors. Such a practice promises to enhance collaborative efforts and drive innovation. The metadata frameworks and associated ontologies developed within our project are available on the PREMISE project's [website](https://ord-premise.github.io/workpackages/).
+The guidelines described in this paper underscore the significance and practicality of embedding ontologies within metadata, drawing on the first-year insights of the PREMISE project and extensive discussions with field experts in battery technology and scanning probe microscopy. This document aims to empower researchers with the necessary insights and instruments for this critical task. With detailed steps and illustrations, it seeks to advocate for the widespread implementation of ontologically enriched metadata in scientific endeavors. Such a practice promises to enhance collaborative efforts and drive innovation. The metadata frameworks and associated ontologies developed within our project are available on the PREMISE project's [website](https://ord-premise.org//workpackages/).
 
 ## References
 
