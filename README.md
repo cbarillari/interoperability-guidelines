@@ -1,6 +1,8 @@
 # D1.1 - Metadata schema and documentation/white paper for interoperable experimental-simulation materials science
 
-This deliverable provides documentation in the form of a white paper on interoperability between experiments and simulations in materials science.
+This deliverable provides documentation in the form of a white paper on interoperability between experiments and simulations in materials science. The document is considered a living document and may evolve according to our findings throughout the life of the project.
+
+You may read the document [here](journey-to-ontologize-metadata.md).
 
 ## Authors
 
@@ -22,8 +24,6 @@ In order to achieve interoperability between experimental and simulation data, t
 
 - [D2.1](https://github.com/ord-premise/metadata-spectroscopy) - metadata schema for microscopy and spectroscopy
 - [D3.1](https://github.com/ord-premise/metadata-batteries) - metadata schema for digital twins in battery research
-
-**NOTE:** This deliverable is considered as a living document and may evolve according to our findings throughout the life of the project.
 
 ## Acknowledgements
 
