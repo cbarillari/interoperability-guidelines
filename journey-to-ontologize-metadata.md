@@ -3,7 +3,7 @@
 ### Authors
 
 - Nukorn Plainpan (Empa)
-- Fabio Andre DaCostaLopes (Empa)
+- Fabio Lopes (Empa)
 - Edan Bainglass (PSI)
 - Caterina Barillari (ETH Zurich)
 - Corsin Battaglia (Empa)
